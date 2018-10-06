@@ -1,5 +1,5 @@
 // declare your functions here...
-function parargraphSelector() {
+function paragraphSelector() {
   
 var test = $('p');
 return test;
