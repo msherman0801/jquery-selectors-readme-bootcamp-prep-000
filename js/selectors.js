@@ -8,3 +8,7 @@ return test;
 function lastImageSelector() {
   return $('img:last')
 }
+
+function ninjaBabySelector() {
+  return
+}
